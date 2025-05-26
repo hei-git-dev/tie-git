@@ -1,7 +1,3 @@
-# Luo tiedosto hello_world.py ja lisää seuraava koodi siihen
 
-def main():
-    print("Hello World!")
+print("Hello world!")
 
-if __name__ == "__main__":
-    main()
